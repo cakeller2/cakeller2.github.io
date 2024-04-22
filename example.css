@@ -1,20 +1,20 @@
 .header {
-    color: red;
+    color: palevioletred;
 }
 
 .subheader {
-    color: blue;
+    color: pink;
     font-style: italic;
 }
 
 .navbar {
-    background: black;
+    background: purple;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
 }
 
 .nav-option {
-    color: rgb(50, 238, 50);
+    color: rgb(79, 41, 97);
     margin-right: 5px;
 }
