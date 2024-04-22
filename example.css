@@ -1,14 +1,18 @@
+.site-background {
+    background: rgb(252, 184, 227);
+}
+    
 .header {
-    color: palevioletred;
+    color: purple;
 }
 
 .subheader {
-    color: pink;
+    color: rgb(182, 103, 219);
     font-style: italic;
 }
 
 .navbar {
-    background: purple;
+    background: pink;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
